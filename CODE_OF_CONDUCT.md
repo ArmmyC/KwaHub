@@ -1,6 +1,6 @@
-# Rally Community Code of Conduct
+# KwaHub Community Code of Conduct
 
-Rally is built to help students. Everyone who participates in the project is expected to make the space welcoming, practical, and safe.
+KwaHub is built to help students. Everyone who participates in the project is expected to make the space welcoming, practical, and safe.
 
 ## Our standards
 

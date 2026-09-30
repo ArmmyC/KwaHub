@@ -8,12 +8,12 @@ body:
   - type: markdown
     attributes:
       value: |
-        Rally publishes reviewed, source-linked data. Please provide the official page that supports the correction.
+        KwaHub publishes reviewed, source-linked data. Please provide the official page that supports the correction.
   - type: input
     id: listing
     attributes:
-      label: Rally listing
-      description: Link the Rally page, or provide the exact listing title if the page is hard to reach.
+      label: KwaHub listing
+      description: Link the KwaHub page, or provide the exact listing title if the page is hard to reach.
     validations:
       required: true
   - type: dropdown

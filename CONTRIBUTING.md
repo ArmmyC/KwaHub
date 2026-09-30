@@ -1,12 +1,12 @@
-# Contributing to Rally
+# Contributing to KwaHub
 
-Thank you for helping students find better opportunities. This repository is Rally's public community home; the application and reviewed data are maintained in a private source repository.
+Thank you for helping students find better opportunities. This repository is KwaHub's public community home; the application and reviewed data are maintained in a private source repository.
 
 ## Ways to help
 
-- Report a listing, organizer, logo, deadline, status, or link correction with the [data correction form](https://github.com/ArmmyC/Rally/issues/new?template=data-correction.yml).
-- Report a reproducible website problem with the [bug report form](https://github.com/ArmmyC/Rally/issues/new?template=bug_report.yml).
-- Suggest a focused improvement with the [feature idea form](https://github.com/ArmmyC/Rally/issues/new?template=feature_request.yml).
+- Report a listing, organizer, logo, deadline, status, or link correction with the [data correction form](https://github.com/ArmmyC/KwaHub/issues/new?template=data-correction.yml).
+- Report a reproducible website problem with the [bug report form](https://github.com/ArmmyC/KwaHub/issues/new?template=bug_report.yml).
+- Suggest a focused improvement with the [feature idea form](https://github.com/ArmmyC/KwaHub/issues/new?template=feature_request.yml).
 - Open a documentation or community-workflow pull request when you can make the change directly.
 
 ## Evidence-first corrections

@@ -2,7 +2,7 @@
 
 Please do not report security vulnerabilities in public issues.
 
-If GitHub private vulnerability reporting is enabled for Rally, use the "Report a vulnerability" option in the repository's Security tab.
+If GitHub private vulnerability reporting is enabled for KwaHub, use the "Report a vulnerability" option in the repository's Security tab.
 
 If private reporting is unavailable, contact [@ArmmyC](https://github.com/ArmmyC) privately through GitHub. Include only the information needed to reproduce the issue.
 

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4 4 40 40" fill="none">
+  <defs>
+    <linearGradient id="violet" x1="1" y1="0" x2="17" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5135FF" />
+      <stop offset="1" stop-color="#8B74FF" />
+    </linearGradient>
+    <linearGradient id="lavender" x1="1" y1="0" x2="17" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DEDaff" />
+      <stop offset="1" stop-color="#9790FF" />
+    </linearGradient>
+    <linearGradient id="mint" x1="1" y1="0" x2="17" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BCF5E4" />
+      <stop offset="1" stop-color="#3BC7A1" />
+    </linearGradient>
+    <linearGradient id="orange" x1="1" y1="0" x2="17" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFC98C" />
+      <stop offset="1" stop-color="#FF9E43" />
+    </linearGradient>
+    <path id="petal" d="M2 0H6A12 12 0 0 1 18 12V16A2 2 0 0 1 16 18H12A12 12 0 0 1 0 6V2A2 2 0 0 1 2 0Z" />
+  </defs>
+  <g transform="translate(5 5)">
+    <use href="#petal" fill="url(#violet)" />
+  </g>
+  <g transform="translate(25 5)">
+    <use href="#petal" transform="rotate(90 9 9)" fill="url(#lavender)" />
+  </g>
+  <g transform="translate(5 25)">
+    <use href="#petal" transform="rotate(90 9 9)" fill="url(#mint)" />
+  </g>
+  <g transform="translate(25 25)">
+    <use href="#petal" fill="url(#orange)" />
+  </g>
+</svg>

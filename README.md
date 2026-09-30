@@ -1,13 +1,13 @@
 <!-- prettier-ignore -->
 <div align="center">
-  <img src="./assets/rally-icon.png" alt="Rally icon" width="96" height="96" />
+  <img src="./assets/kwahub-mark.svg" alt="KwaHub mark" width="96" height="96" />
 
-  <h1>Rally</h1>
+  <h1>KwaHub</h1>
   <p><strong>Find your next move.</strong></p>
   <p>A bilingual directory for internships, hackathons, competitions, and student programmes in Thailand.</p>
 
   <p>
-    <a href="https://rally.kamolpop.dev/"><strong>Live site</strong></a>
+    <a href="https://kwahub.kamolpop.dev/"><strong>Live site</strong></a>
     &middot;
     <a href="#overview">Overview</a>
     &middot;
@@ -17,22 +17,22 @@
   </p>
 
   <p>
-    <a href="https://rally.kamolpop.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Frally.kamolpop.dev&label=live%20website&style=flat-square" alt="Live website" /></a>
-    <img src="https://img.shields.io/badge/Thai%20%2B%20English-bilingual-1d5fd1?style=flat-square" alt="Thai and English" />
+    <a href="https://kwahub.kamolpop.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fkwahub.kamolpop.dev&label=live%20website&style=flat-square" alt="Live website" /></a>
+    <img src="https://img.shields.io/badge/Thai%20%2B%20English-bilingual-5135FF?style=flat-square" alt="Thai and English" />
     <img src="https://img.shields.io/badge/Next.js-App%20Router-20242c?style=flat-square" alt="Next.js App Router" />
   </p>
 </div>
 
-Rally brings useful student opportunities into one calm, searchable place. Browse first, verify from the official organizer, then make your next move with the information that matters.
+KwaHub brings useful student opportunities into one calm, searchable place. Browse first, verify from the official organizer, then make your next move with the information that matters.
 
 > [!IMPORTANT]
-> Rally is a discovery directory, not an application service. Deadlines, eligibility, and availability can change, so confirm the latest details on the official source before applying or registering.
+> KwaHub is a discovery directory, not an application service. Deadlines, eligibility, and availability can change, so confirm the latest details on the official source before applying or registering.
 
 ## Overview
 
-Rally is built for students in Thailand who want a simpler way to find what is happening next.
+KwaHub is built for students in Thailand who want a simpler way to find what is happening next.
 
-| Discover | Use Rally to |
+| Discover | Use KwaHub to |
 | --- | --- |
 | Internships | Find company, university, and practical work opportunities. |
 | Hackathons | Find places to build, learn, and meet collaborators. |
@@ -42,7 +42,7 @@ Rally is built for students in Thailand who want a simpler way to find what is h
 
 The interface and opportunity details are available in English and Thai, with responsive pages designed for quick scanning on mobile or desktop.
 
-## Why Rally
+## Why KwaHub
 
 - **Official-source links:** Every public listing points back to the organizer or programme page.
 - **Clear status:** active, upcoming, watchlist, and expired explain what each listing means.
@@ -59,30 +59,30 @@ The interface and opportunity details are available in English and Thai, with re
 | watchlist | A recurring programme exists, but its next intake is not announced. |
 | expired | A useful past cycle retained for reference. |
 
-Only reviewed public records are shown in Rally. Always use the official source as the final authority.
+Only reviewed public records are shown in KwaHub. Always use the official source as the final authority.
 
 ## Report a correction
 
 Found an incorrect link, logo, organizer, deadline, status, or duplicate?
 
-1. Open the [listing or organizer correction form](https://github.com/ArmmyC/Rally/issues/new?template=data-correction.yml).
-2. Include the Rally listing or exact title.
+1. Open the [listing or organizer correction form](https://github.com/ArmmyC/KwaHub/issues/new?template=data-correction.yml).
+2. Include the KwaHub listing or exact title.
 3. Link the official source that supports the correction.
 4. Explain exactly what should change.
 
-For a website problem, use the [website problem form](https://github.com/ArmmyC/Rally/issues/new?template=bug_report.yml). For a product idea, use the [feature idea form](https://github.com/ArmmyC/Rally/issues/new?template=feature_request.yml).
+For a website problem, use the [website problem form](https://github.com/ArmmyC/KwaHub/issues/new?template=bug_report.yml). For a product idea, use the [feature idea form](https://github.com/ArmmyC/KwaHub/issues/new?template=feature_request.yml).
 
 ## Project repositories
 
-This public repository is Rally's project and community home. The application implementation, reviewed dataset, and operational workflows are maintained separately in a private source repository.
+This public repository is KwaHub's project and community home. The application implementation, reviewed dataset, and operational workflows are maintained separately in a private source repository; they are not distributed here.
 
 Use this repository for project context, public feedback, and documentation updates. The private source repository is used for application implementation, data validation, and deployment changes.
 
 ## Resources
 
-- [Rally live directory](https://rally.kamolpop.dev/)
-- [Sitemap](https://rally.kamolpop.dev/sitemap.xml)
-- [Robots](https://rally.kamolpop.dev/robots.txt)
-- [llms.txt](https://rally.kamolpop.dev/llms.txt)
+- [KwaHub live directory](https://kwahub.kamolpop.dev/)
+- [Sitemap](https://kwahub.kamolpop.dev/sitemap.xml)
+- [Robots](https://kwahub.kamolpop.dev/robots.txt)
+- [llms.txt](https://kwahub.kamolpop.dev/llms.txt)
 
 Built for students in Thailand who want a simpler way to discover what is happening next.

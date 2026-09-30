@@ -10,4 +10,4 @@
 
 - I checked all links and issue-form references.
 - I did not add secrets or personal data.
-- I followed the Rally Code of Conduct.
+- I followed the KwaHub Code of Conduct.

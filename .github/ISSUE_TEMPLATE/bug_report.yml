@@ -1,5 +1,5 @@
 name: Website problem
-description: Report a reproducible problem in the Rally website.
+description: Report a reproducible problem in the KwaHub website.
 title: "[Bug]: "
 labels:
   - bug
@@ -7,13 +7,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping improve Rally. Please avoid posting personal data, credentials, or private webhook details.
+        Thanks for helping improve KwaHub. Please avoid posting personal data, credentials, or private webhook details.
   - type: input
     id: page
     attributes:
       label: Page or route
       description: Which URL or route shows the problem?
-      placeholder: https://rally.kamolpop.dev/en
+      placeholder: https://kwahub.kamolpop.dev/en
     validations:
       required: true
   - type: textarea
